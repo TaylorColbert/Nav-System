@@ -1,0 +1,6 @@
+5704950b, Taylor, Joash, 2421 Jackson Bluff rd, Tallahassee Fl 32304 -> Indianpolis, IN, 776.15 mi, 11 hours 52 mins
+1794e8a6, taylor, james, Indianpolis -> Tampa, 988.63 mi, 14 hours 21 mins
+0bc5c41c, John, Taylor, Tallahassee -> Tampa, 276.42 mi, 4 hours 1 min
+f8b4e69f, Taylor , Charlotte, Tampa -> Brandon, Fl, 14.57 mi, 22 mins
+7121b6e6, Taylor, Lauren, orlando -> Tampa, 84.39 mi, 1 hour 20 mins
+0d51525b, Taylor, Lauren, orlando -> Tampa, 84.39 mi, 1 hour 20 mins
